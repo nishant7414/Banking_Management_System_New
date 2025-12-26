@@ -155,12 +155,6 @@ If you'd like to enhance the project:
 This project is licensed under the [MIT License](LICENSE).  
 Feel free to use and modify it for learning or development purposes.
 
----
-
-## 📬 Contact
-
-**Developer:** Kanak Pherwani   
-🌐 GitHub: [Kanak2908](https://github.com/Kanak2908)  
 
 ---
 
